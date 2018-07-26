@@ -1,6 +1,6 @@
 
 ## Vicharian's Pages
-I used the [editor on GitHub](https://github.com/Vicharian/vicharian.github.io/edit/master/index.md) to edit these pages but likes stackedit.io better
+I used the [editor on GitHub](https://github.com/Vicharian/vicharian.github.io/edit/master/index.md) to edit these pages but liked [stackedit.io](https://stackedit.io) better
 
 [Test.gpx](content/test.gpx)
 
